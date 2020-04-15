@@ -1,0 +1,15 @@
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\bin\Debug\Encrypt_n_Decrypt.exe.config
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\bin\Debug\Encrypt_n_Decrypt.exe
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\bin\Debug\Encrypt_n_Decrypt.pdb
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.csprojAssemblyReference.cache
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\MainWindow.g.cs
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\App.g.cs
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt_MarkupCompile.cache
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt_MarkupCompile.lref
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\MainWindow.baml
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.g.resources
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.Properties.Resources.resources
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.csproj.GenerateResource.cache
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.csproj.CoreCompileInputs.cache
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.exe
+C:\Sumin\Github\EncryptnDecrypt\Encrypt_n_Decrypt\Encrypt_n_Decrypt\obj\Debug\Encrypt_n_Decrypt.pdb
